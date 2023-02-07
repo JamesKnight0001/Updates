@@ -7,7 +7,7 @@ Library:UpdatesMain({
 
 Library:UpdatesMain({
 	name = "base", -- really noy needed
-	image = "8964489645",
+	image = "http://www.roblox.com/asset/?id=8964489619",
 	update = "Your mom",
 	comment = "lol"
 })
